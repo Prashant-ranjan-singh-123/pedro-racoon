@@ -167,8 +167,8 @@ SOFTWARE.
 
 ## 👨‍💻 Contributors
 
-<a href='https://github.com/Prashant-ranjan-singh-123/flutter-Unwrapped/graphs/contributors'>
-  <img src='https://contrib.rocks/image?repo=Prashant-ranjan-singh-123/flutter-Unwrapped' />
+<a href='https://github.com/Prashant-ranjan-singh-123/pedro-racoon/graphs/contributors'>
+  <img src='https://contrib.rocks/image?repo=Prashant-ranjan-singh-123/pedro-racoon' />
 </a>
 
 ## 🙋 Support
