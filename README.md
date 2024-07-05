@@ -1,5 +1,5 @@
 <div align="center">
-</br>
+<br>
 <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/pedro-racoon/main/asset/image/icon.png" width="200" />
 
 </div>
@@ -26,15 +26,15 @@
   <a href="https://github.com/Prashant-ranjan-singh-123/flutter-Unwrapped/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/Prashant-ranjan-singh-123/flutter-Unwrapped?style=for-the-badge&color=ccdd56"/></a>
 </p>
 
-</br>
+<br>
 
 
 <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/pedro-racoon/main/readme_image/feature_graphic.png"/>
 
 <p style="text-align: left; font-weight: normal;">I recently encountered a popular social media video featuring an endearing raccoon performing a dance for the camera. Inspired by the viral nature of this content, I've decided to develop a mobile application using Flutter. The app's primary purpose will be to showcase this charming dance video. I'm excited to share this project and hope you find it engaging.</p>
 
-</div>
-</br>
+
+<br>
 
 ## Download 🔥
 [<img src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.png" alt="Get it on Releases" height="80">](https://github.com/Prashant-ranjan-singh-123/flutter-Unwrapped/releases/download/apk-02/app-release.apk)
