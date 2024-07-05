@@ -62,7 +62,7 @@ flutter pub get
 flutter run
 ```
 
-  <br>
+<br>
 
 ## Contributing
 
