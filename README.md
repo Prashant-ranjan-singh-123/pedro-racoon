@@ -31,7 +31,7 @@
 
 <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/pedro-racoon/main/readme_image/feature_graphic.png"/>
 
-<p style="text-align: left; font-weight: normal;">Flutter Unwrapped unlocks the world of Flutter development on your mobile device. This comprehensive app empowers you to learn the fundamentals, build practical skills, and prepare for your Flutter developer journey. From streamlined installation to free UI kits, Flutter Unwrapped equips you for success.</p>
+<p style="text-align: left; font-weight: normal;">I recently encountered a popular social media video featuring an endearing raccoon performing a dance for the camera. Inspired by the viral nature of this content, I've decided to develop a mobile application using Flutter. The app's primary purpose will be to showcase this charming dance video. I'm excited to share this project and hope you find it engaging.</p>
 
 </div>
 </br>
