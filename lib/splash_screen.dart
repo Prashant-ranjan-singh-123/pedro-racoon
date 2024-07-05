@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_animate/flutter_animate.dart';
 import 'package:get/get.dart';
-import 'package:untitled/main.dart';
+import 'pedro_pedro.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
@@ -13,7 +13,7 @@ class SplashScreen extends StatefulWidget {
 class _SplashScreenState extends State<SplashScreen> {
   Future<void> showOnboard() async {
     Future.delayed(const Duration(seconds: 3, milliseconds: 500), () {
-      Get.to(const VideoPlayerScreen(),
+      Get.off(const VideoPlayerScreen(),
           transition: Transition.rightToLeft, duration: 300.ms);
     });
   }
