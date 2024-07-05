@@ -40,24 +40,6 @@
 [<img src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.png" alt="Get it on Releases" height="80">](https://github.com/Prashant-ranjan-singh-123/flutter-Unwrapped/releases/download/apk-02/app-release.apk)
 <a href="https://apt.izzysoft.de/fdroid/index/apk/ru.aleshin.timeplanner" target="_blank">
 
-## What you get by this app
-* Install Flutter Guide 📘
-* Flutter Interview Questions ❓
-* Flutter & Dart Concepts 📚
-* Writing First Flutter Application 🖋️
-* Widgets explain with UI 🎨
-* Explore UIs (Open-Source) 🌐
-
-## Technologies stack 🚀
-- GetX State Management 💼
-- Clean Architecture 🏛️
-- Use of Flutter Animations package 🎬
-- iOS and Android Compatible 📱
-- Landscape Mode Supported 🌄
-- Responsive UI 📱
-
-<br>
-
 ## Building from Source
 
 1. If you don't have Flutter SDK installed, please visit official [Flutter](https://flutter.dev/) site.
@@ -80,21 +62,6 @@ flutter pub get
 flutter run
 ```
 
-<br>
-
-## TODO
-
-- [ ] Suggest Some app name and some 1 liner description
-- [ ] Add Native Splash Screen
-- [ ] Choice Best Icons From any package.
-- [ ] Figma Designer: UI Redesign share.
-- [ ] Make Bubble Static for Splash Screen
-- [ ] Change Bottom Nav Bar Flashy Bottom Nav
-- [ ] Redesign UI for Home Screen
-- [ ] Redesign UI for Widgets Screen
-- [ ] Redesign UI for Beginner Level Widget.
-- [ ] Construct ui kit Page
-- [ ] Comment Some repo with flutter UI to add.
   <br>
 
 ## Contributing
