@@ -37,7 +37,7 @@
 <br>
 
 ## Download 🔥
-[<img src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.png" alt="Get it on Releases" height="80">](https://github.com/Prashant-ranjan-singh-123/pedro-racoon/releases/download/apk-01/app-release.apk)
+[<img src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.png" alt="Get it on Releases" height="80">](https://github.com/Prashant-ranjan-singh-123/pedro-racoon/releases/download/apk-01/Pedro.Racoon.apk)
 <a href="https://apt.izzysoft.de/fdroid/index/apk/ru.aleshin.timeplanner" target="_blank">
 
 ## Building from Source

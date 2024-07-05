@@ -18,6 +18,14 @@ class _SplashScreenState extends State<SplashScreen> {
     });
   }
 
+  double returnSmall(){
+    if(Get.width>Get.height){
+      return Get.height;
+    }else{
+      return Get.width;
+    }
+  }
+
   @override
   void initState() {
     super.initState();
@@ -56,8 +64,8 @@ class _SplashScreenState extends State<SplashScreen> {
 
   Widget logo() {
     return SizedBox(
-        width: Get.width*0.5,
-        height: Get.width*0.5,
+        width: returnSmall()*0.7,
+        height: returnSmall()*0.7,
         child: Image.asset('asset/image/icon.png'));
   }
 
