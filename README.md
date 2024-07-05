@@ -49,7 +49,7 @@ https://flutter.dev/
 
 2. Fetch latest source code from master branch.
 ```
-git clone https://github.com/Prashant-ranjan-singh-123/flutter-Unwrapped.git
+git clone https://github.com/Prashant-ranjan-singh-123/pedro-racoon.git
 ```
 
 3. Download Dependency:
