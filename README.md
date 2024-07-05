@@ -29,7 +29,7 @@
 </br>
 
 
-<img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/flutter-Unwrapped/master/readme_image/preview.png"/>
+<img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/pedro-racoon/main/readme_image/feature_graphic.png"/>
 
 <p style="text-align: left; font-weight: normal;">Flutter Unwrapped unlocks the world of Flutter development on your mobile device. This comprehensive app empowers you to learn the fundamentals, build practical skills, and prepare for your Flutter developer journey. From streamlined installation to free UI kits, Flutter Unwrapped equips you for success.</p>
 
